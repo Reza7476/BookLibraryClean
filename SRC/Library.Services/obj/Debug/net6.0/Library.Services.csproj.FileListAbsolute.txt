@@ -1,0 +1,17 @@
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\bin\Debug\net6.0\Library.Services.deps.json
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\bin\Debug\net6.0\Library.Services.dll
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\bin\Debug\net6.0\Library.Services.pdb
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\bin\Debug\net6.0\Library.Entities.dll
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\bin\Debug\net6.0\Tavv.Contract.dll
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\bin\Debug\net6.0\Library.Entities.pdb
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\bin\Debug\net6.0\Tavv.Contract.pdb
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\obj\Debug\net6.0\Library.Services.csproj.AssemblyReference.cache
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\obj\Debug\net6.0\Library.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\obj\Debug\net6.0\Library.Services.AssemblyInfoInputs.cache
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\obj\Debug\net6.0\Library.Services.AssemblyInfo.cs
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\obj\Debug\net6.0\Library.Services.csproj.CoreCompileInputs.cache
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\obj\Debug\net6.0\Library.Services.csproj.CopyComplete
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\obj\Debug\net6.0\Library.Services.dll
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\obj\Debug\net6.0\refint\Library.Services.dll
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\obj\Debug\net6.0\Library.Services.pdb
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Services\obj\Debug\net6.0\ref\Library.Services.dll

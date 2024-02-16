@@ -1,0 +1,12 @@
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Infrastructures\bin\Debug\net6.0\Library.Infrastructures.deps.json
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Infrastructures\bin\Debug\net6.0\Library.Infrastructures.dll
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Infrastructures\bin\Debug\net6.0\Library.Infrastructures.pdb
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Infrastructures\obj\Debug\net6.0\Library.Infrastructures.csproj.AssemblyReference.cache
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Infrastructures\obj\Debug\net6.0\Library.Infrastructures.GeneratedMSBuildEditorConfig.editorconfig
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Infrastructures\obj\Debug\net6.0\Library.Infrastructures.AssemblyInfoInputs.cache
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Infrastructures\obj\Debug\net6.0\Library.Infrastructures.AssemblyInfo.cs
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Infrastructures\obj\Debug\net6.0\Library.Infrastructures.csproj.CoreCompileInputs.cache
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Infrastructures\obj\Debug\net6.0\Library.Infrastructures.dll
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Infrastructures\obj\Debug\net6.0\refint\Library.Infrastructures.dll
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Infrastructures\obj\Debug\net6.0\Library.Infrastructures.pdb
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Library.Infrastructures\obj\Debug\net6.0\ref\Library.Infrastructures.dll

@@ -1,0 +1,12 @@
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Tavv.Contract\bin\Debug\net6.0\Tavv.Contract.deps.json
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Tavv.Contract\bin\Debug\net6.0\Tavv.Contract.dll
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Tavv.Contract\bin\Debug\net6.0\Tavv.Contract.pdb
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Tavv.Contract\obj\Debug\net6.0\Tavv.Contract.csproj.AssemblyReference.cache
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Tavv.Contract\obj\Debug\net6.0\Tavv.Contract.GeneratedMSBuildEditorConfig.editorconfig
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Tavv.Contract\obj\Debug\net6.0\Tavv.Contract.AssemblyInfoInputs.cache
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Tavv.Contract\obj\Debug\net6.0\Tavv.Contract.AssemblyInfo.cs
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Tavv.Contract\obj\Debug\net6.0\Tavv.Contract.csproj.CoreCompileInputs.cache
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Tavv.Contract\obj\Debug\net6.0\Tavv.Contract.dll
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Tavv.Contract\obj\Debug\net6.0\refint\Tavv.Contract.dll
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Tavv.Contract\obj\Debug\net6.0\Tavv.Contract.pdb
+F:\TaaVClass\Solid\LibraryBookClean\Library\SRC\Tavv.Contract\obj\Debug\net6.0\ref\Tavv.Contract.dll

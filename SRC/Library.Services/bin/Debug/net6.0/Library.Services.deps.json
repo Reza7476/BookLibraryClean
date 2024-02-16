@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Library.Services/1.0.0": {
+        "dependencies": {
+          "Library.Entities": "1.0.0",
+          "Tavv.Contract": "1.0.0"
+        },
+        "runtime": {
+          "Library.Services.dll": {}
+        }
+      },
+      "Library.Entities/1.0.0": {
+        "runtime": {
+          "Library.Entities.dll": {}
+        }
+      },
+      "Tavv.Contract/1.0.0": {
+        "runtime": {
+          "Tavv.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Library.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tavv.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.RestApi\\Library.RestApi.csproj": {}
+  },
+  "projects": {
+    "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Entities\\Library.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Entities\\Library.Entities.csproj",
+        "projectName": "Library.Entities",
+        "projectPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Entities\\Library.Entities.csproj",
+        "packagesPath": "C:\\Users\\Reza\\.nuget\\packages\\",
+        "outputPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Persistence.EF\\Library.Persistence.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Persistence.EF\\Library.Persistence.EF.csproj",
+        "projectName": "Library.Persistence.EF",
+        "projectPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Persistence.EF\\Library.Persistence.EF.csproj",
+        "packagesPath": "C:\\Users\\Reza\\.nuget\\packages\\",
+        "outputPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Persistence.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Services\\Library.Services.csproj": {
+                "projectPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Services\\Library.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.RestApi\\Library.RestApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.RestApi\\Library.RestApi.csproj",
+        "projectName": "Library.RestApi",
+        "projectPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.RestApi\\Library.RestApi.csproj",
+        "packagesPath": "C:\\Users\\Reza\\.nuget\\packages\\",
+        "outputPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.RestApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Persistence.EF\\Library.Persistence.EF.csproj": {
+                "projectPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Persistence.EF\\Library.Persistence.EF.csproj"
+              },
+              "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Services\\Library.Services.csproj": {
+                "projectPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Services\\Library.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Services\\Library.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Services\\Library.Services.csproj",
+        "projectName": "Library.Services",
+        "projectPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Services\\Library.Services.csproj",
+        "packagesPath": "C:\\Users\\Reza\\.nuget\\packages\\",
+        "outputPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Entities\\Library.Entities.csproj": {
+                "projectPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Library.Entities\\Library.Entities.csproj"
+              },
+              "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Tavv.Contract\\Tavv.Contract.csproj": {
+                "projectPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Tavv.Contract\\Tavv.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Tavv.Contract\\Tavv.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Tavv.Contract\\Tavv.Contract.csproj",
+        "projectName": "Tavv.Contract",
+        "projectPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Tavv.Contract\\Tavv.Contract.csproj",
+        "packagesPath": "C:\\Users\\Reza\\.nuget\\packages\\",
+        "outputPath": "F:\\TaaVClass\\Solid\\LibraryBookClean\\Library\\SRC\\Tavv.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
